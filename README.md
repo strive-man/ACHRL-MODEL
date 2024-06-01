@@ -1,6 +1,6 @@
 ## 环境
 ```
-1：python3.8
+1：python3.8（3.0以上版本）
 
 2：Tensorflow2.0
 ```
