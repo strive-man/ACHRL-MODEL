@@ -1,2 +1,10 @@
-# ACHRL-MODEL
-This repository contains the implementation for the paper - An Actor-critic hierarchical reinforcement learning model for course recommendation.
+## 环境
+1：python3.8
+2：Tensorflow2.0
+
+## 运行
+   ```
+    run train.py
+   
+   ```
+
