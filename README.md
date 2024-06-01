@@ -6,6 +6,6 @@
 ```
 ## 运行
    ```
- run train.py
+ run Train.py
    ```
 
